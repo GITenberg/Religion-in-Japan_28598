@@ -1,0 +1,30 @@
+_repo: Religion-in-Japan_28598
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cobbold, George A. (George Augustus)
+    alias: Cobbold, George Augustus
+    birthdate: 1857
+    gutenberg_agent_id: '33440'
+    url: http://www.gutenberg.org/2009/agents/33440
+description: ''
+gutenberg_issued: '2009-04-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28598'
+  lccn: '11027930'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Japan -- Religion'
+- !lcsh 'Buddhism'
+- !lcsh 'Shinto'
+- !lcc 'BL'
+- !lcsh 'Christianity'
+title: Religion in Japan
+url: http://www.gutenberg.org/ebooks/28598
